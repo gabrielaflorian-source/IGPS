@@ -172,6 +172,24 @@ flowchart TD
     J -->|Sí| K[Mostrar resultado]
     K --> L([Fin de la partida])
 
+
+A continuación, se muestran algunas capturas del desarrollo y funcionamiento del proyecto:
+# Capturas de pantalla del proyecto
+
+# Primera prueba
+![Primera prueba](./Captura%20de%20pantalla%202026-11-07%20135223.png)
+
+# Detección del tablero
+![Detección del tablero](./Captura%20de%20pantalla%202026-11-07%20135435.png)
+
+# Reconocimiento de elementos
+![Reconocimiento](./Captura%20de%20pantalla%202026-11-07%20143653.png)
+
+# Pruebas del sistema
+![Pruebas](./Captura%20de%20pantalla%202026-11-07%20145820.png)
+
+# Resultado
+![Resultado](./Captura%20de%20pantalla%202026-11-07%20155014.png)
 # Organización por módulos
 
 Módulo
